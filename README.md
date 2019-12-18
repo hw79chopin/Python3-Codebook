@@ -1,6 +1,6 @@
 # Hyun's Code book
 ![](https://miro.medium.com/max/2560/0*iIo0UCoyvlsyvxVh.jpg)
-Hyun이 사용해봤던 모~든 코드들을 다 모아둔 곳!!!
+이곳은  사용해봤던 모~든 코드들을 다 모아둔 곳!!!
 <br>
 <br>
 <br>
