@@ -1,6 +1,9 @@
 # Deep Learning
 ![](http://www.weeklypost.kr/news/photo/201812/246_340_1622.png)  
 딥러닝 입문자를 위한 Deep Learning 설명서~~~
+<br>
+<br>
+<br>
 
 # 소개 및 목표
 - 본 파일은 딥러닝을 공부하면서 개념 및 모델들을 정리해둔 jupyter notebook!
@@ -8,7 +11,12 @@
 - 딥러닝에서 자주 사용하는 용어, 메소드를 정리해두어서 모르는 용어 있으면 바로 참고해두기 쉽게 해두었다!
 - '파이토치 첫 걸음'과 Ybigta science 팀장 갓정학의 강의를 많이 참고하였다.
 - #### Tip) Google Colab으로 열면 더 보기 편해요~</font>
+<br>
+<br>
+<br>
+
 # 목차
+
 ### 1. Deep Learning이 무엇일까???
 
 ### 2. Deep Learning 관련 용어, 메소드 모음
