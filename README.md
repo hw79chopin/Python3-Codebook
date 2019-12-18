@@ -5,7 +5,7 @@
 <br>
 <br>
 
-# 소개 및 목표
+# 소개
  - 본 파일은 Hyun이 python을 쓰면서 사용했던 모든 코드, 메소드, 라이브러리 등을 모아놓은 jupyter notebook!
  - 작업 파일을 모니터 오른편에, 코드북을 왼쪽에 켜놓고 작업하면 진짜 개굳임.
  - Machine Learning과 Deep Learning 관련된 코드도 한 jupyter notebook으로 관리하다가 파일이 너무 커져 렉이 먹어서 따로 정리해둠!
