@@ -10,8 +10,8 @@
  - 작업 파일을 모니터 오른편에, 코드북을 왼쪽에 켜놓고 작업하면 진짜 개굳임.
  - Machine Learning과 Deep Learning 관련된 코드도 한 jupyter notebook으로 관리하다가 파일이 너무 커져 렉이 먹어서 따로 정리해둠!
  
-   Machine Learning과 Deep learning 관련 코드는 위에 있는 [Machine Learnin], [Deep Learning] 폴더에 있다!
- - 사용법: Colab으로 켜두고서 필요한 코드을 ctrl+F로 찾아서 쓰면 딱 좋아~!
+   Machine Learning과 Deep learning 관련 코드는 위에 있는 [Machine Learning], [Deep Learning] 폴더에 있다!
+ - 사용법: Code book을 Colab으로 켜두고서 필요한 코드을 ctrl+F로 찾아서 쓰면 딱 좋아~!
  - #### Tip) Google Colab으로 열면 더 보기 편해요~</font>
 <br>
 
