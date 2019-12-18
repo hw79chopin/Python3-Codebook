@@ -20,7 +20,18 @@
 ### 1. Machine Learning은 무엇일까???
 
 ### 2. Machine Learning 관련 용어, 메소드 모음
-
+ - Machine learning 빈용 개념정리
+   - Bagging vs Boosting
+   - Bias와 Variance
+   - Cost function, Loss function, Objective function
+   - Cross Validation vs Hold-out Validation
+   - Data 나누기
+   - Model Evaluation (classification)
+   - Model Evaluation (Regression)
+   - Overfitting, Underfitting
+ - Machine learning 용어 모음
+ - Machine learning 관련 메소드 모음
+ 
 ### 3. Supervised Learning
  - 0-1. Regression
    - Linear regression
@@ -40,7 +51,13 @@
    
 ### 4. Unsupervised Learning
  - Dimensionality reduction
+   - PCA
  - Clustering
+   - K-means clustering
+   - Hierarchical clustering
+   - DBSCAN
+   - Gaussian Mixture model (GMM)
+   - KNN clustering
  
 ### 5. 기타 ML에 필요한 기법들
  - Sampling
