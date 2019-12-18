@@ -1,4 +1,5 @@
 # Machine Learning
+![](https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg)
 머신러닝 입문자를 위한 머신러닝 설명서~~~
 <br>
 <br>
