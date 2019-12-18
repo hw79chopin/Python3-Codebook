@@ -1,43 +1,47 @@
-# TheBornKorea
-![](http://img.hankyung.com/photo/201812/AKR20181214109100005_01_i.jpg)  
-더본코리아 브랜드 별 특징을 분석해보자!!!
+# Machine Learning
+머신러닝 입문자를 위한 머신러닝 설명서~~~
+<br>
+<br>
+<br>
 
-# 프로젝트 소개
-- 2019-2학기 Ybigta Design 팀에서 했던 미니컨퍼런스 주제
-- 참여자: 김수정, 전유진, 정현우
-
-# 프로젝트 목표
-- 더본코리아에는 현재 16개의 외식 프랜차이즈 브랜드가 있다. 평소에 더본코리아의 매장을 사용해본 팀원들은 매장들간에 브랜드 이미지의 차이가 뚜렷하다는데 동의했다. 
-- 예를 들면, 백다방, 역전우동, 미정국수는 간단하게 음식을 먹는 분위기면 한신포차, 돌배기집, 새마을식당은 식사와 술을 같이 먹는 느낌이었다.
-- 이에 본 조는 더본코리아의 브랜드 특징을 수집하여 이를 바탕으로 군집분석을 실시하여 브랜드 별로 어떤 차이가 있는지 파악하고, 이를 바탕으로 브랜드 별 경쟁우위와 경영전략을 분석해보고자 하였다.
-
-# 사용 기법들
-- 크롤링 (Selenium)
-- 위도, 경도 크롤링 (Google API)
-- 지도시각화 (Folium)
-- Clustering (Hierarchical Clustering, K-means clustering)
+# 소개 및 목표
+ - 본 파일은 Hyun이 머신러닝을 공부하면서 개념 및 모델들을 정리해둔 jupyter notebook!
+ - 매번 공부하면서 봤던 자료들이 한 곳에 있으면 좋겠다라는 생각에 다 모아보았다!
+ - 머신러닝 중에서 지도학습, 비지도학습 부분 위주로 만들었다.
+ - 머신러닝에서 자주 사용하는 용어, 메소드를 정리해두어서 모르는 용어 있으면 바로 참고해두기 쉽게 해두었다!
+ - Ybigta 학회세션 자료 및 다양한 github blog를 참고하였다.
+ - #### Tip) Google Colab으로 열면 더 보기 편해요~</font>
+<br>
+<br>
 
 # 목차
- 1. 더본코리아 매장 정보 크롤링
- 
- 2. 매장의 경도, 위도 크롤링
- 
- 3. 지도시각화
-    - 한신포차, 홍콩반점, 돌비개집, 리춘시장, 롤링파스타 분포 비교
-    - 한신포차
-    - 홍콩반점
-    - 돌배기집
+
+### 1. Machine Learning은 무엇일까???
+
+### 2. Machine Learning 관련 용어, 메소드 모음
+
+### 3. Supervised Learning
+ - 0-1. Regression
+   - Linear regression
+   - Gradient descent
+   - Stochastic gradient descent
+   - Polynomial regression
+   - Lasso
+   - Ridge
+   - Logistic regression
+   - Softmax function
+ - 0-2. Classification
+ - 0-3. Decision tree
+ - 0-4. Ensemble
+   - Random Forest
+   - Bagging
+   - Boosting
    
- 4. 부동산 정보 크롤링
-    - 3지역 크롤링 concat 하고 지역 인구정보 없는 애들 다시 천천히 크롤링하기
-    
- 5. 대학 위치 크롤링
+### 4. Unsupervised Learning
+ - Dimensionality reduction
+ - Clustering
  
- 6. 모든 excel 파일 전부 합치기
- 
- 7. 이제 본격적으로 전처리
- 
- 8. Clustering 하기
-    - 1st Clustering
-    - 2nd Clustering
-    - 각 클러스터별 column 특징
+### 5. 기타 ML에 필요한 기법들
+ - Sampling
+ - Scaling
+ - GridsearchCV
