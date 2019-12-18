@@ -13,7 +13,6 @@
 - #### Tip) Google Colab으로 열면 더 보기 편해요~</font>
 <br>
 <br>
-<br>
 
 # 목차
 
