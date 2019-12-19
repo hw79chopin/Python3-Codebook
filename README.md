@@ -1,7 +1,7 @@
 # Hyun's Code book
-![](https://scontent.ficn1-1.fna.fbcdn.net/v/t1.0-0/p180x540/49212670_1351410715010192_2574201967551184896_o.jpg?_nc_cat=108&_nc_oc=AQlxAGpLnWQiwxZdTFpiwacd5M0UvSEMEYgLaDwF9vDeVWYwjQvBFBsQTe3RjetEdpI&_nc_ht=scontent.ficn1-1.fna&oh=a036a2eebb6a55aa15f3fd13fb4aecab&oe=5E7BE497)
-## 아 그 코드 뭐였지?
-- 이곳은 내가 사용해봤던 모~든 코드들을 다 모아둔 곳!!!
+![](https://github.com/hw79chopin/Python3_Code_book/blob/master/data/Code_collection_background_image.png?raw=true)
+## 이런 나를 위해
+- 내가 사용해봤던 모~든 코드들을 다 모았다!!!
 <br>
 <br>
 <br>
