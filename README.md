@@ -87,3 +87,8 @@
   
 ### 23. 소소한 내 경험들
   - 특정 라이브러리에 국한되지 않고 내 경험을 모아둔 곳!
+
+
+### Tips!
+- python 2와python3 버전 충돌 있을 때!  
+[여기를 참조!!!](https://djangoworld.tistory.com/18)
