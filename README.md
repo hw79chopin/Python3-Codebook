@@ -1,7 +1,7 @@
 # Hyun's Code book
 ![](https://github.com/hw79chopin/Python3_Code_book/blob/master/data/Code_collection_background_image.png?raw=true)
 ## 이런 나를 위해
-- 내가 사용해봤던 모~든 코드들을 다 모았다!!!
+- 내가 사용해봤던 모~든 라이브러리들을 다 모았다!!!
 <br>
 
 # 소개
