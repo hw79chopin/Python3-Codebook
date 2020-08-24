@@ -1,9 +1,10 @@
-# `Python Codebook`
+<h1 align="center" style="background-color:#00FEFE"><strong>🔎 Python Codebook</strong></h3>
+
 `#python`
 
 <br>
  
-# 1.소개
+# 🚦 1. 코드북 소개
  - 본 repo는 내가 python을 쓰면서 사용했던 모든 코드, 메소드, 라이브러리 등을 모아놓은 jupyter notebook이다.
  - 작업 파일을 모니터 오른편에, 코드북을 왼쪽에 켜놓고 작업하면 진짜 개굳이다.
  - Machine Learning과 Deep Learning 관련된 코드도 한 jupyter notebook으로 관리하다가 파일이 너무 커져 렉이 먹어서 따로 정리해두었다.
@@ -13,7 +14,7 @@
  - #### `Tip) Google Colab으로 열면 더 보기 편해요~`
 <br>
 
-# 2. 목차
+# 🚦 2. 목차
 
 ### 1. Jupyter, Colab
   - jupyter notebook tip
@@ -87,6 +88,8 @@
 ### 23. 소소한 내 경험들
   - 특정 라이브러리에 국한되지 않고 내 경험을 모아둔 곳!
 
-### Tips!
+### 🚦 Tips!
 - python 2와python3 버전 충돌 있을 때!  
 [여기를 참조!!!](https://djangoworld.tistory.com/18)
+
+<h3 align="center"><strong>끗! 🙌</strong></h3>
