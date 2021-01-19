@@ -22,6 +22,7 @@
   
 ### 2. Markdown Syntax
   - 기본적인 markdown syntax
+  - Colab version: [Markdown Syntax.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/2.%20Markdown%20Syntax/%5BMarkdown%20Syntax%5D%20Python3%20Codebook.ipynb)
   
 ### 3. Python
   - Python에서 기본으로 쓰는 syntax들!
@@ -92,4 +93,8 @@
 - python 2와python3 버전 충돌 있을 때!  
 [여기를 참조!!!](https://djangoworld.tistory.com/18)
 
-<h3 align="center"><strong>끗! 🙌</strong></h3>
+
+## Author
+
+- Hyun Woo Jung (Hyun Jung)
+- Author Email : chopin_liszt@naver.com
