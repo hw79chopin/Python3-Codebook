@@ -22,6 +22,7 @@
   
 ### 2. Markdown Syntax
   - 기본적인 markdown syntax
+  - Colab version: [Markdown Syntax.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/2.%20Markdown%20Syntax/%5BMarkdown%20Syntax%5D%20Python3%20Codebook.ipynb)
   
 ### 3. Python
   - Python에서 기본으로 쓰는 syntax들!
