@@ -93,4 +93,8 @@
 - python 2와python3 버전 충돌 있을 때!  
 [여기를 참조!!!](https://djangoworld.tistory.com/18)
 
-<h3 align="center"><strong>끗! 🙌</strong></h3>
+
+## Author
+
+- Hyun Woo Jung (Hyun Jung)
+- Author Email : chopin_liszt@naver.com
