@@ -20,85 +20,63 @@
 
 ### 1. Basic Python
   - 1-1. Python Basic Syntax
+    - Colab version: [Python Basic Syntax.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/1-1.%20Python%20Basic%20Syntax/%5BPython%20Basic%20Syntax%5D%20Python3%20Codebook.ipynb)
   - 1-2. Python Built-In Modules
+    - Colab version: [Numpy.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/1-2.%20Python%20Built-In%20Modules/%5BBuilt-In%20Modules%5D%20Python3%20Codebook.ipynb)
   
 ### 2. Data Analysis Related
   - 2-1. Numpy
-    - Colba version: [Numpy.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/2-1.%20Numpy/%5BNumpy%5D%20Python3%20Codebook.ipynb)
+    - Colab version: [Numpy.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/2-1.%20Numpy/%5BNumpy%5D%20Python3%20Codebook.ipynb)
   - 2-2. Pandas
-    - Colab version: [Markdown Syntax.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/2-2.%20Pandas/%5BPandas%5D%20Python3%20Codebook.ipynb)
+    - Colab version: [Pandas.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/2-2.%20Pandas/%5BPandas%5D%20Python3%20Codebook.ipynb)
   
-### 3. Python
-  - Python에서 기본으로 쓰는 syntax들!
   
-### 4. Numpy
-  - Python 라이브러리 중 numpy와 관련된 메소드들
+### 3. Visualization
+  - 3-1. Matplolib
+    - Colab version: [Matplotlib.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/3-1.%20Matplotlib/%5BMatplotlib%5D%20Python3%20Codebook.ipynb)
+  - 3-2. Seaborn
+    - Colab version: [Seaborn.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/3-2.%20Seaborn/%5BSeaborn%5D%20Python3%20Codebook.ipynb)
+ 
+### 4. Web Crawling
+  - 4-1. BeautifulSoup
+    - Colab version: [BeautifulSoup.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/4-1.%20BeautifulSoup/%5BBeautifulSoup%5D%20Python3%20Codebook.ipynb)
+  - 4-2. Selenium
+    - Colab version: [Selenium.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/4-2.%20Selenium/%5BSelenium%5D%20Python3%20Codebook.ipynb)
+    
+### 5. Word Cloud
+  - 5-1. KoNLPy
+    - Colab version: [KoNLPy.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/5-1.%20KoNLPy/%5BKoNLPy%5D%20Python3%20Codebook.ipynb)
+  - 5-2. Word Cloud
+    - Colab version: [Word Cloud.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/5-2.%20Word%20Cloud/%5BWord_Cloud%5D%20Python3%20Codebook.ipynb)
   
-### 5. Pandas
-  - Pandas 기본 syntax와 더불어 Merge, Concat, Timeseries data 다루는 법
+### 6. Network Analysis
+  - 6-1. Networkx
+    - Colab version: [Networkx.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/6-1.%20Networkx/%5BNetworkx%5D%20Python3%20Codebook.ipynb)
   
-### 6. Matplotlib
-  - Matplotlib으로 각종 그래프들 그리는 방법!
-  - Matplotlib 예제들 풀 수 있는 링크도!
+### 7. Geometric Data Handling
+  - 7-1. Folium
+    - Colab version: [Folium.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/7-1.%20Folium/%5BFolium%5D%20Python3%20Codebook.ipynb)
   
-### 7. Seaborn
-  - Seaborn으로 각종 그래프를 그리는 방법!
-  
-### 8. Re
-  - 정규식 syntax
-  
-### 9. Os
-  - Os를 이용해 directory 검색하는 방법
-  
-### 10. Itertools
-  - Itertools 중에서 내가 썼던 combination 쓰는 방법!
-  
-### 11. Pickle
-  - 텍스트 이외의 자료형을 파일로 저장하기 위한 pickle
-  
-### 12. Openpyxl
-  - pandas 말고 excel을 다루는 또다른 라이브러리
-  
-### 13. Json
-  - JavaScript Object Notation
-  - 자바스크립트를 위한 것이고 객체 형식으로 자료를 표현하는 방법!
-  
-### 14. Collections
-  - Collection내 counter 모듈을 사용해서 단어 개수를 용이하게 셀 수 있음!
-  
-### 15. Crawling
-  - Request, Selenium을 활용한 crawling!!
-  
-### 16. Networkx
-  - Network 분석을 위한 라이브러리!!
-  
-### 17. Folium
-  - 지도시각화!
-  
-### 18. Word cloud
-  - 워드클라우드 만들기!
-  
-### 19. KoNLPy
-  - 한국어 NLP로 형태소 분석에 사용되는 라이브러리
-  
-### 20. Pillow
-  - 이미지를 다루는 Python 라이브러리
+### 8. Image Data handling
+  - 8-1. Pillow
+    - Colab version: [Pillow.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/8-1.%20Pillow/%5BPillow%5D%20Python3%20Codebook.ipynb)
 
-### 21. Glob
-  - 파일들의 목록을 뽑을 때 사용하는 라이브러리
+### 9. Database Related
+  - 9-1. Pymysql
+    - Colab version: [Pymysql.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/9-1.%20Pymysql/%5BPymysql%5D%20Python3%20Codebook.ipynb)
+  - 9-2. Pymongo
+    - Colab version: [Pymongo.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/9-2.%20Pymongo/%5BPymongo%5D%20Python3%20Codebook.ipynb)
 
-### 22. Scipy
-  - 과학기술계산을 위한 Python 
+### 10. Tableau
+  - 10-1. Tabpy
+    - Colab version: [Tabpy.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/10-1.%20Tabpy/%5BTabpy%5D%20Python3%20Codebook.ipynb)
   
-### 23. 소소한 내 경험들
-  - 특정 라이브러리에 국한되지 않고 내 경험을 모아둔 곳!
-
-### 🚦 Tips!
-- python 2와python3 버전 충돌 있을 때!  
-[여기를 참조!!!](https://djangoworld.tistory.com/18)
-
+### 11. Etc
+  - 11-1. Markdown
+    - Colab version: [Markdown.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/11-1.%20Markdown/%5BMarkdown%20Syntax%5D%20Python3%20Codebook.ipynb)
+  - 11-2. Google Colab Tips
+    - Colab version: [Google Colab.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/11-2.%20Google%20Colab/%5BGoogle%20Colab%5D%20Python3%20Codebook.ipynb)
 
 ## Author
-
 - Hyun Woo Jung (Hyun Jung)
 - Author Email : chopin_liszt@naver.com
