@@ -171,4 +171,6 @@ dmypy.json
 # profiling data
 .prof
 
+.idea
+.Rhistory
 # End of https://www.toptal.com/developers/gitignore/api/macos,python
