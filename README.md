@@ -17,7 +17,7 @@
   - 1-1. Python Basic Syntax
     - Colab version: [Python Basic Syntax.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/1-1.%20Python%20Basic%20Syntax/%5BPython%20Basic%20Syntax%5D%20Python3%20Codebook.ipynb)
   - 1-2. Python Built-In Modules
-    - Colab version: [Numpy.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/1-2.%20Python%20Built-In%20Modules/%5BBuilt-In%20Modules%5D%20Python3%20Codebook.ipynb)
+    - Colab version: [Built-In Modules.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/1-2.%20Python%20Built-In%20Modules/%5BBuilt-In%20Modules%5D%20Python3%20Codebook.ipynb)
   
 ### 2. Data Analysis Related
   - 2-1. Numpy
