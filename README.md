@@ -4,20 +4,15 @@
 
 <br>
  
-# 🚦 1. 코드북 소개
- - 본 repo는 내가 python을 쓰면서 사용했던 모든 코드, 메소드, 라이브러리 등을 모아놓은 jupyter notebook이다.
- - 작업 파일을 모니터 오른편에, 코드북을 왼쪽에 켜놓고 작업하면 진짜 개굳이다.
- - Machine Learning과 Deep Learning 관련된 코드도 한 jupyter notebook으로 관리하다가 파일이 너무 커져 렉이 먹어서 따로 정리해두었다.
- 
-   Machine Learning과 Deep learning 관련 코드는 위에 있는 [Machine Learning], [Deep Learning] 폴더에 있다.
+# 🚦 1. Introduction
+ - Python
+ - 
  - 사용법: Code book을 Colab으로 켜두고서 필요한 코드을 ctrl+F로 찾아서 쓰면 딱 좋다.
- - #### `Tip) Google Colab으로 열면 더 보기 편해요~`
+ - `Tip) Google Colab으로 열면 더 보기 편하다`
+
 <br>
 
-# 🚦 2. 목차
-
----
-
+# 🚦 2. Table of Contents
 ### 1. Basic Python
   - 1-1. Python Basic Syntax
     - Colab version: [Python Basic Syntax.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/1-1.%20Python%20Basic%20Syntax/%5BPython%20Basic%20Syntax%5D%20Python3%20Codebook.ipynb)
