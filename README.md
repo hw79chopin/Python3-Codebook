@@ -1,14 +1,15 @@
 <h1 align="center" style="background-color:#00FEFE"><strong>🔎 Python Codebook</strong></h3>
+<p align="center"><img width="300" src="https://developers.redhat.com/blog/wp-content/uploads/2018/08/python-logo-master-v3-TM-flattened.png"/> </p>
 
-`#python`
+`#python` `#Data Science`
 
 <br>
  
 # 🚦 1. Introduction
- - Python
- - 
- - 사용법: Code book을 Colab으로 켜두고서 필요한 코드을 ctrl+F로 찾아서 쓰면 딱 좋다.
- - `Tip) Google Colab으로 열면 더 보기 편하다`
+
+`Python Codebook` is a tutorial of python libraries for those who are studying Python. Most of the libraries covered here are related to data science such as pandas, numpy, networkx, folium etc.
+
+ - Much easier to read if you open codebook with **Google colab**
 
 <br>
 
@@ -48,7 +49,7 @@
   - 6-1. Networkx
     - Colab version: [Networkx.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/6-1.%20Networkx/%5BNetworkx%5D%20Python3%20Codebook.ipynb)
   
-### 7. Geometric Data Handling
+### 7. Geographical Data Handling
   - 7-1. Folium
     - Colab version: [Folium.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/7-1.%20Folium/%5BFolium%5D%20Python3%20Codebook.ipynb)
   
@@ -73,5 +74,5 @@
     - Colab version: [Google Colab.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/11-2.%20Google%20Colab/%5BGoogle%20Colab%5D%20Python3%20Codebook.ipynb)
 
 ## Author
-- Hyun Woo Jung (Hyun Jung)
+- Hyun Woo Jung (Hyun)
 - Author Email : chopin_liszt@naver.com
