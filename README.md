@@ -75,4 +75,4 @@
 
 ## Author
 - Hyun Woo Jung (Hyun)
-- Author Email : chopin_liszt@naver.com
+- Author Email : hyunwoo.jung@yonsei.ac.kr
