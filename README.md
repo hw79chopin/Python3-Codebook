@@ -74,5 +74,5 @@
     - Colab version: [Google Colab.ipynb](https://colab.research.google.com/github/hw79chopin/Python3-Codebook/blob/master/11-2.%20Google%20Colab/%5BGoogle%20Colab%5D%20Python3%20Codebook.ipynb)
 
 ## Author
-- Hyun Woo Jung (Hyun)
+- Hyunwoo Jung
 - Author Email : hyunwoo.jung@yonsei.ac.kr
